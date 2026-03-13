@@ -1,0 +1,39 @@
+
+
+=== TAB 0: Ordinary Services ===
+
+
+=== TAB 1: Express Services ===
+
+
+=== TAB 2: Deluxe Services ===
+
+
+=== TAB 3: A/C Service ===
+
+
+=== TAB 4: Small ===
+
+
+=== TAB 5: Night services ===
+
+
+=== TAB 6: E/V Deluxe Service ===
+
+
+=== TAB 7: E/V A/C Service ===
+
+
+=== TAB 8: Chennai Ula Services ===
+
+
+=== TAB 9: Pink Services ===
+Night Services (Deluxe)
+[Effective from 29/01/2018] | [G.O (Ms.) No.48 Dated 28/01/2018]
+Start | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11
+11.00 | 13.00 | 15.00 | 17.00 | 19.00 | 21.00 | 23.00 | 25.00 | 27.00 | 29.00 | 31.00
+12 | 13 | 14 | 15 | 16 | 17 | 18 | 19 | 20 | 21 | 22 | 23
+31.00 | 33.00 | 33.00 | 35.00 | 35.00 | 37.00 | 37.00 | 39.00 | 39.00 | 41.00 | 41.00 | 43.00
+24 | 25 | 26 | 27 | 28 | 29 | 30 | End
+43.00 | 45.00 | 45.00 | 47.00 | 47.00 | 49.00 | 49.00
+Note : For CESS Rs. 1.00 collected per passenger.
