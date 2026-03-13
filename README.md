@@ -84,7 +84,7 @@ Commuters in Tamil Nadu have to check **3 different apps** just to compare fares
 
 ```bash
 # Clone the repository
-git clone https://github.com/YOUR_USERNAME/transitsave.git
+git clone https://github.com/Subash-Nagaraj-V/transitsave.git
 
 # Navigate to project folder
 cd transitsave/transitsave-main
